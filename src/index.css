@@ -1,0 +1,31 @@
+.title{
+    color: red;
+}
+
+.design1{
+    margin: 0;
+    list-style-type: none;
+    height: 100%;
+    width: 40%;
+    white-space: nowrap;
+    overflow-x: visible;
+    color: #0F1111;
+    letter-spacing: -4px;
+}
+.designcard{
+    margin-left: 70px;
+    
+    vertical-align: top;
+    text-align: left;
+    overflow: hidden;
+    margin-left: 16px;
+    width: 200px;
+    min-height: 100%;
+    list-style-type: none;
+    display: inline-block;
+    white-space: normal;
+    letter-spacing: normal;
+}
+.displaydesign{
+    display: flex;
+}
